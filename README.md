@@ -21,4 +21,18 @@ Features
 - Email-Verification for both users and organizers
 - CRUD-Functionalities: creating, reading, updating (and deleting) events and one's profile
 - Includes editor to edit events
-- Images are stored as base64 in database
+- Images are stored as base64 in database#
+
+Requirements
+
+- Laravel 9
+- MySQL
+- PHP 8 or higher
+
+Steps 
+
+- download all files
+- create empty table in your database
+- change .env-file: database connection
+- php artisan storage:link
+- php artisan serve
