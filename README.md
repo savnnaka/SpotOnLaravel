@@ -26,13 +26,13 @@ Features
 Requirements
 
 - Laravel 9
-- MySQL
+- Database Server
 - PHP 8 or higher
 
 Steps 
 
 - download all files
 - create empty table in your database
-- change .env-file: database connection
+- change .env: setup database connection (username, password, tablename)
 - php artisan storage:link
 - php artisan serve
