@@ -7,9 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<h1> SPOT ON </h1>
+
 ## About This Laravel Project
 
 Idea
+
 An website, which allows authorized users to search for events in their city. They can comment on events, like them or subscribe to the initiator of the event (the so-called 'organizer'). This leads to an unique feet with all the events of the organizers that one user follows. Organizer themselves can create, read, edit and update events on their page.
 
 Features
